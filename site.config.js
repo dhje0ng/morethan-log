@@ -20,6 +20,7 @@ const CONFIG = {
   blog: {
     title: "DH.J - Blog",
     description: "DH.J - Blog",
+    scheme: "system"
   },
 
   // CONFIG configration (required)
