@@ -1,6 +1,6 @@
 import { getTextContent, getDateValue } from "notion-utils"
 import { NotionAPI } from "notion-client"
-import { BlockMap, CollectionPropertySchemaMap, NotionMap } from "notion-types"
+import { CollectionPropertySchemaMap, NotionMap } from "notion-types"
 import { customMapImageUrl } from "./customMapImageUrl"
 import { CustomBlockMap } from "src/types/notion.type"
 
